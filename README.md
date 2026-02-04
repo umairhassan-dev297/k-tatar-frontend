@@ -1,2 +1,18 @@
-# k-tatar-frontend
-A responsive Arabic frontend website built with HTML, CSS, Bootstrap 5, and JavaScript for a client, focusing on RTL layout and clean UI.
+# K-Tatar – Arabic Frontend Website
+
+A responsive Arabic frontend website developed for a client using HTML, CSS, Bootstrap 5, and JavaScript.
+
+## Technologies Used
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+
+## Features
+- RTL (Right-to-Left) layout
+- Fully responsive design
+- Clean and modern UI
+- Cross-browser compatibility
+
+## Role
+Frontend Developer
